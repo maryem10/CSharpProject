@@ -1,0 +1,46 @@
+C:\Users\POSTE\Desktop\gestion etudiant\Gestion_Etudiants\Gestion_Etudiants\bin\Release\Gestion_Etudiants.exe
+C:\Users\POSTE\Desktop\gestion etudiant\Gestion_Etudiants\Gestion_Etudiants\bin\Release\Gestion_Etudiants.pdb
+C:\Users\POSTE\Desktop\gestion etudiant\Gestion_Etudiants\Gestion_Etudiants\obj\x86\Release\Gestion_Etudiants.Form1_login.resources
+C:\Users\POSTE\Desktop\gestion etudiant\Gestion_Etudiants\Gestion_Etudiants\obj\x86\Release\Gestion_Etudiants.Form3_Etudiant.resources
+C:\Users\POSTE\Desktop\gestion etudiant\Gestion_Etudiants\Gestion_Etudiants\obj\x86\Release\Gestion_Etudiants.Properties.Resources.resources
+C:\Users\POSTE\Desktop\gestion etudiant\Gestion_Etudiants\Gestion_Etudiants\obj\x86\Release\Gestion_Etudiants.csproj.GenerateResource.Cache
+C:\Users\POSTE\Desktop\gestion etudiant\Gestion_Etudiants\Gestion_Etudiants\obj\x86\Release\Gestion_Etudiants.exe
+C:\Users\POSTE\Desktop\gestion etudiant\Gestion_Etudiants\Gestion_Etudiants\obj\x86\Release\Gestion_Etudiants.pdb
+C:\Users\POSTE\Desktop\gestion etudiant\Gestion_Etudiants\Gestion_Etudiants\obj\x86\Release\Gestion_Etudiants.csprojResolveAssemblyReference.cache
+C:\Users\POSTE\Desktop\File\Code Source\Gestion_Etudiants\obj\x86\Release\Gestion_Etudiants.exe
+C:\Users\POSTE\Desktop\File\Code Source\Gestion_Etudiants\obj\x86\Release\Gestion_Etudiants.pdb
+C:\Users\POSTE\Desktop\File\Code Source\Gestion_Etudiants\obj\x86\Release\Gestion_Etudiants.csprojResolveAssemblyReference.cache
+C:\Users\POSTE\Desktop\File\Code Source\Gestion_Etudiants\obj\x86\Release\Gestion_Etudiants.Form1_login.resources
+C:\Users\POSTE\Desktop\File\Code Source\Gestion_Etudiants\obj\x86\Release\Gestion_Etudiants.Form3_Etudiant.resources
+C:\Users\POSTE\Desktop\File\Code Source\Gestion_Etudiants\obj\x86\Release\Gestion_Etudiants.Properties.Resources.resources
+C:\Users\POSTE\Desktop\File\Code Source\Gestion_Etudiants\obj\x86\Release\Gestion_Etudiants.csproj.GenerateResource.Cache
+C:\Users\POSTE\Desktop\File\Code Source\Gestion_Etudiants\bin\Release\Gestion_Etudiants.exe
+C:\Users\POSTE\Desktop\File\Code Source\Gestion_Etudiants\bin\Release\Gestion_Etudiants.pdb
+C:\Users\POSTE\Desktop\File\Code Source\Gestion_Etudiants\obj\x86\Release\Gestion_Etudiants.Gestion_notes.resources
+C:\Users\POSTE\Desktop\File\Code Source\Gestion_Etudiants\obj\x86\Release\Gestion_Etudiants.module.resources
+C:\Users\POSTE\Desktop\File\Code Source\Gestion_Etudiants\obj\x86\Release\Gestion_Etudiants.Consultation.resources
+C:\Users\POSTE\Desktop\File\Code Source\Gestion_Etudiants\obj\x86\Release\Gestion_Etudiants.Form2_accueil.resources
+C:\Users\POSTE\Desktop\Copie de File\Code Source\Gestion_Etudiants\obj\x86\Release\Gestion_Etudiants.exe
+C:\Users\POSTE\Desktop\Copie de File\Code Source\Gestion_Etudiants\obj\x86\Release\Gestion_Etudiants.pdb
+C:\Users\POSTE\Desktop\Copie de File\Code Source\Gestion_Etudiants\bin\Release\Gestion_Etudiants.exe
+C:\Users\POSTE\Desktop\Copie de File\Code Source\Gestion_Etudiants\bin\Release\Gestion_Etudiants.pdb
+C:\Users\POSTE\Desktop\Copie de File\Code Source\Gestion_Etudiants\obj\x86\Release\Gestion_Etudiants.Consultation.resources
+C:\Users\POSTE\Desktop\Copie de File\Code Source\Gestion_Etudiants\obj\x86\Release\Gestion_Etudiants.Form1_login.resources
+C:\Users\POSTE\Desktop\Copie de File\Code Source\Gestion_Etudiants\obj\x86\Release\Gestion_Etudiants.Form2_accueil.resources
+C:\Users\POSTE\Desktop\Copie de File\Code Source\Gestion_Etudiants\obj\x86\Release\Gestion_Etudiants.Form3_Etudiant.resources
+C:\Users\POSTE\Desktop\Copie de File\Code Source\Gestion_Etudiants\obj\x86\Release\Gestion_Etudiants.Gestion_notes.resources
+C:\Users\POSTE\Desktop\Copie de File\Code Source\Gestion_Etudiants\obj\x86\Release\Gestion_Etudiants.module.resources
+C:\Users\POSTE\Desktop\Copie de File\Code Source\Gestion_Etudiants\obj\x86\Release\Gestion_Etudiants.Properties.Resources.resources
+C:\Users\POSTE\Desktop\Copie de File\Code Source\Gestion_Etudiants\obj\x86\Release\Gestion_Etudiants.csproj.GenerateResource.Cache
+C:\Users\POSTE\Downloads\CSharp-mini-projet-master\CSharp-mini-projet-master\Code Source\Gestion_Etudiants\obj\x86\Release\Gestion_Etudiants.exe
+C:\Users\POSTE\Downloads\CSharp-mini-projet-master\CSharp-mini-projet-master\Code Source\Gestion_Etudiants\obj\x86\Release\Gestion_Etudiants.pdb
+C:\Users\POSTE\Downloads\CSharp-mini-projet-master\CSharp-mini-projet-master\Code Source\Gestion_Etudiants\bin\Release\Gestion_Etudiants.exe
+C:\Users\POSTE\Downloads\CSharp-mini-projet-master\CSharp-mini-projet-master\Code Source\Gestion_Etudiants\bin\Release\Gestion_Etudiants.pdb
+C:\Users\POSTE\Downloads\CSharp-mini-projet-master\CSharp-mini-projet-master\Code Source\Gestion_Etudiants\obj\x86\Release\Gestion_Etudiants.Consultation.resources
+C:\Users\POSTE\Downloads\CSharp-mini-projet-master\CSharp-mini-projet-master\Code Source\Gestion_Etudiants\obj\x86\Release\Gestion_Etudiants.Form1_login.resources
+C:\Users\POSTE\Downloads\CSharp-mini-projet-master\CSharp-mini-projet-master\Code Source\Gestion_Etudiants\obj\x86\Release\Gestion_Etudiants.Form2_accueil.resources
+C:\Users\POSTE\Downloads\CSharp-mini-projet-master\CSharp-mini-projet-master\Code Source\Gestion_Etudiants\obj\x86\Release\Gestion_Etudiants.Form3_Etudiant.resources
+C:\Users\POSTE\Downloads\CSharp-mini-projet-master\CSharp-mini-projet-master\Code Source\Gestion_Etudiants\obj\x86\Release\Gestion_Etudiants.Gestion_notes.resources
+C:\Users\POSTE\Downloads\CSharp-mini-projet-master\CSharp-mini-projet-master\Code Source\Gestion_Etudiants\obj\x86\Release\Gestion_Etudiants.module.resources
+C:\Users\POSTE\Downloads\CSharp-mini-projet-master\CSharp-mini-projet-master\Code Source\Gestion_Etudiants\obj\x86\Release\Gestion_Etudiants.Properties.Resources.resources
+C:\Users\POSTE\Downloads\CSharp-mini-projet-master\CSharp-mini-projet-master\Code Source\Gestion_Etudiants\obj\x86\Release\Gestion_Etudiants.csproj.GenerateResource.Cache
